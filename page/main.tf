@@ -5,6 +5,6 @@ resource "azurerm_storage_blob" "mod" {
     storage_account_name = "${var.storage_account_name}"
     storage_container_name = "${var.storage_container_name}"
 
-    type = "${var.type}"
+    type = "page"
     size = "${var.size}"
 }
