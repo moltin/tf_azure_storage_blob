@@ -1,3 +1,3 @@
 # Storage Blob Terraform module
 
-- [ ] Generate common Terraform script from a template
+- [ ] Generate common Terraform scripts from a template
