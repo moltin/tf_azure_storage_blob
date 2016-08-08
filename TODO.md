@@ -1,3 +1,4 @@
 # Storage Blob Terraform module
 
-- [ ] Generate common Terraform scripts from a template
+- Complete README.md file
+- Generate common Terraform scripts from a template
